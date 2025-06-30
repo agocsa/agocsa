@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Csaba Ago 👋
 
-<!--
-**agocsa/agocsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a well-organized and committed full-stack developer with a Master's degree in Electrical Engineering and over 15 years of professional experience in building and managing web applications.
 
-Here are some ideas to get you started:
+### 🛠️ My Skillset
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Backend:** PHP (15+ years), Laravel (5+ years), PhalconPHP (3+ years)
+*   **Database:** MySQL (15+ years of modeling and development)
+*   **Frontend:** HTML, CSS (10+ years), JavaScript (jQuery, Vue, Svelte)
+*   **DevOps & Server Management:** Linux, Apache, Redis, MySQL, Postfix, Docker, Virtualmin/Webmin (15+ years)
+*   **Currently Learning:** GoLang, Node.js, Elasticsearch
+
+I am passionate about building robust, scalable applications and always eager to learn new technologies.
+
+<!-- Optional: Add contact info or links -->
+<!-- 📫 How to reach me: ... -->
+<!-- 🔗 LinkedIn: ... -->
